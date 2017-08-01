@@ -1,0 +1,17 @@
+{
+  "name": "PrimeFactors",
+  "version": "1.0.0",
+  "description": "Prime factors recruitment exercise - JS version",
+  "main": "test/prime_factors_test.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test/"
+  },
+  "author": "Igor Carreira",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.5.0"
+  }
+}
