@@ -1,11 +1,5 @@
-class PrimeFactors {
-  of(number) {
-    if(number == 2) {
-      return [2];
-    }
+const primeFactorsOf = (number) => {
+  return [];
+};
 
-    return [];
-  }
-}
-
-module.exports = new PrimeFactors();
+module.exports = primeFactorsOf;
